@@ -1,10 +1,12 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: house.Coolshell.in
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+About house management service 
+- Training Camp of Living Community
+
 
 ## Demo
 
